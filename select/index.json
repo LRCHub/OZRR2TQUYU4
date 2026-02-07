@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "un secret",
+  "base_artist": "霜月はるか",
+  "createdAt": "2026-02-07T14:11:16.384756Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Un secret",
+      "artist": "Carla Bruni",
+      "has_synced": false,
+      "path": "select/01_Un_secret_Carla_Bruni.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Un secret",
+      "artist": "Les Wriggles",
+      "has_synced": true,
+      "path": "select/02_Un_secret_Les_Wriggles.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "J'ai un secret",
+      "artist": "Ycare",
+      "has_synced": true,
+      "path": "select/03_J'ai_un_secret_Ycare.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Un Secret pour Personne",
+      "artist": "Allan Theo",
+      "has_synced": true,
+      "path": "select/04_Un_Secret_pour_Personne_Allan_Theo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Un secret",
+      "artist": "Carla Bruni",
+      "has_synced": true,
+      "path": "select/05_Un_secret_Carla_Bruni.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Presque un secret",
+      "artist": "Ojos",
+      "has_synced": true,
+      "path": "select/06_Presque_un_secret_Ojos.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Toutes Les Femmes Ont Un Secret (Live)",
+      "artist": "Sylvie Vartan",
+      "has_synced": false,
+      "path": "select/07_Toutes_Les_Femmes_Ont_Un_Secret_(Live)_Sylvie_Vartan.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "J'ai un secret à te dire",
+      "artist": "Lucky Blondo",
+      "has_synced": true,
+      "path": "select/08_J'ai_un_secret_à_te_dire_Lucky_Blondo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "C'est un secret",
+      "artist": "Pierre Rapsat",
+      "has_synced": false,
+      "path": "select/09_C'est_un_secret_Pierre_Rapsat.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "04 - Un secret",
+      "artist": "Les Wriggles",
+      "has_synced": true,
+      "path": "select/10_04_-_Un_secret_Les_Wriggles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Toutes Les Femmes Ont Un Secret",
+      "artist": "Sylvie Vartan",
+      "has_synced": false,
+      "path": "select/11_Toutes_Les_Femmes_Ont_Un_Secret_Sylvie_Vartan.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Am un secret",
+      "artist": "Alessandra",
+      "has_synced": true,
+      "path": "select/12_Am_un_secret_Alessandra.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "un secret",
+      "artist": "霜月はるか",
+      "has_synced": false,
+      "path": "select/pl_01_un_secret_霜月はるか.txt"
+    }
+  ]
+}
